@@ -17,6 +17,7 @@
  * Copyright © Magento, Inc. All rights reserved.
  * See COPYING.txt for license details.
  */
+// new line
 
 try {
     require __DIR__ . '/app/bootstrap.php';
