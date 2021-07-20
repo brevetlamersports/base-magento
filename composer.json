@@ -54,7 +54,6 @@
         "tubalmartin/cssmin": "4.1.1",
         "webonyx/graphql-php": "^0.12.6",
         "wikimedia/less.php": "~1.8.0",
-        "yireo/magento2-linkpreload": "^1.4",
         "zendframework/zend-captcha": "^2.7.1",
         "zendframework/zend-code": "~3.3.0",
         "zendframework/zend-config": "^2.6.0",
